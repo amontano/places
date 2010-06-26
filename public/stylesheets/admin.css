@@ -261,7 +261,7 @@ table.listGrid td {
   font-family: verdana, arial, helvetica, sans-serif;
   font-size:   13px;
   line-height: 18px;
-  padding: 0 5px;
+  padding: 1px 5px;
   border-top: 1px solid #ccc;
 }
 
@@ -413,6 +413,18 @@ RE-USABLE CLASSES
 	padding:1em;
 	margin-top:.5em;
 	border:solid 1px gray;
+}
+
+.listActions .item-icon-delete{
+	background-position:2px 4px;
+	margin-left:3px;
+	margin-right:10px;
+}
+.highlight .item-icon-new{
+	background-position:2px 0;
+}
+fieldset .highlight .item-icon-new{
+	background-position:2px 2px;
 }
 
 .featureLabel, a.featureLabel{
