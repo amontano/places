@@ -49,3 +49,6 @@
 [submodule "vendor/plugins/annotate_models"]
 	path = vendor/plugins/annotate_models
 	url = git://github.com/amontano/annotate_models.git
+[submodule "vendor/plugins/universal_navigation"]
+	path = vendor/plugins/universal_navigation
+	url = git://github.com/thl/universal_navigation.git
